@@ -36,6 +36,7 @@ pip install cython_bbox
 
 ---
 pip install rich
+
 ---
 
 
