@@ -40,7 +40,7 @@ def get_args():
             'youtureid',
             'sface',
         ],
-        default='motpy',
+        default='bytetrack',
     )
 
     parser.add_argument("--target_id", type=str, default=None)
