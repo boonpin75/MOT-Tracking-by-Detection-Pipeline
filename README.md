@@ -26,7 +26,7 @@ rich 11.2.0            or later ※Norfairを実行する場合
 gdown 4.4.0            or later ※YoutuReIDを実行する場合
 tensorflow 2.8.0       or later ※Light Person Detectorをtfliteで実行する場合
 ```
-
+Ubuntu 20.04 LTS <br>
 pip install Cython <br>
 pip install cython_bbox <br>
 pip install rich <br>
