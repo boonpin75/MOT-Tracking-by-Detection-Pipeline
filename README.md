@@ -36,6 +36,7 @@ pip install cython_bbox
 
 ---
 pip install rich
+---
 
 
 ※Windowsでcython_bbox のインストールが失敗する場合は、GitHubからのインストールをお試しください(2022/02/16時点)<br>
